@@ -2,6 +2,8 @@ El proyecto consistirá en realizar una aplicación web en React, respetando el 
 entregado en Figma, los requerimientos técnicos y la funcionalidad deseada.
 
 
+
+
 * Requerimientos de Diseño:
 
 1. En primer lugar, es necesario entrar al link donde se encuentra el diseño:
